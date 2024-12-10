@@ -104,6 +104,7 @@ main {
 }
 
 .sitenav-img {
+  object-fit: cover;
 }
 
 .sitenav {
